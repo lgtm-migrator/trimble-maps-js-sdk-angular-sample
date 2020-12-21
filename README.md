@@ -1,6 +1,6 @@
 # Angular sample for using Trimble MAPS JavaScript SDK
 
-The maps are the latest version of Trimble MAPS Javascript SDK using vector tiles and WebGL. You will need an API key to use this sample. https://info.maps.trimble.com/get-an-api-key
+The maps are the latest version of Trimble MAPS JavaScript SDK using vector tiles and WebGL. You will need an API key to use this sample. https://developer.trimblemaps.com
 
 Put your API Key in `src/app/app.component.html`
 
@@ -26,7 +26,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Run `ng e2e` to execute the end-to-end tests via [Protractor](https://www.protractortest.org/).
 
 ## Further help with Angular
 
